@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVsr0z6p9jQlQqfBjzcDLxbOKhroXSRwmWBvaTQ2aKUwhjgsb2PbC4bBy+SB3WsKnS+W6ZoN8AoL+TbIM/aFLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\GYM_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

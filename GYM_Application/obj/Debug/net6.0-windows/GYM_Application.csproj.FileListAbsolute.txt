@@ -1,0 +1,142 @@
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.exe
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.deps.json
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.runtimeconfig.json
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.AssemblyReference.cache
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form1.resources
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Properties.Resources.resources
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.GenerateResource.cache
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfoInputs.cache
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfo.cs
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.CoreCompileInputs.cache
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\refint\GYM_Application.dll
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.genruntimeconfig.cache
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\ref\GYM_Application.dll
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.equpment.resources
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Equipment.resources
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form2.resources
+C:\Users\abdallah\source\repos\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form3.resources
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.exe
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.deps.json
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.runtimeconfig.json
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.AssemblyReference.cache
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Equipment.resources
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.equpment.resources
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form1.resources
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form2.resources
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form3.resources
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Properties.Resources.resources
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.GenerateResource.cache
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfoInputs.cache
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfo.cs
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.CoreCompileInputs.cache
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\refint\GYM_Application.dll
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.genruntimeconfig.cache
+C:\Users\abdallah\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\ref\GYM_Application.dll
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.exe
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.deps.json
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.runtimeconfig.json
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.AssemblyReference.cache
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Equipment.resources
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.equpment.resources
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form1.resources
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form2.resources
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form3.resources
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Properties.Resources.resources
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.UserControl1.resources
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.GenerateResource.cache
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfoInputs.cache
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfo.cs
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.CoreCompileInputs.cache
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\refint\GYM_Application.dll
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.genruntimeconfig.cache
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\ref\GYM_Application.dll
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form4.resources
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.login.resources
+C:\Users\abdallah\3D Objects\my_progects\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form5.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.exe
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.deps.json
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.runtimeconfig.json
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Equipment.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.equpment.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form1.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form2.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form3.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form4.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form5.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.login.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Properties.Resources.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.UserControl1.resources
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\refint\GYM_Application.dll
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.genruntimeconfig.cache
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\ref\GYM_Application.dll
+C:\Users\DELL\OneDrive - Elshorouk Academy\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.NewMember.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Equipment.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.equpment.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form1.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form2.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form3.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form4.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form5.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.login.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.NewMember.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Properties.Resources.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.UserControl1.resources
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\refint\GYM_Application.dll
+C:\Users\DELL\OneDrive - Arab Open University - AOU\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Equipment.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.equpment.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form1.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form2.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form3.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form4.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Form5.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.login.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.NewMember.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.Properties.Resources.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.UserControl1.resources
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\refint\GYM_Application.dll
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.exe
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.deps.json
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.runtimeconfig.json
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.dll
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\bin\Debug\net6.0-windows\GYM_Application.pdb
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\GYM_Application.genruntimeconfig.cache
+C:\Users\DELL\Desktop\GYM_Application\GYM_Application\obj\Debug\net6.0-windows\ref\GYM_Application.dll

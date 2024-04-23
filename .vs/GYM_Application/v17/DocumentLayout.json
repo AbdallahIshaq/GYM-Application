@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\GYM_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|c:\\users\\dell\\desktop\\gym_application\\gym_application\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|solutionrelative:gym_application\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|C:\\Users\\DELL\\Desktop\\GYM_Application\\gym_application\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|solutionrelative:gym_application\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|C:\\Users\\DELL\\Desktop\\GYM_Application\\gym_application\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|solutionrelative:gym_application\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|C:\\Users\\DELL\\Desktop\\GYM_Application\\gym_application\\newmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|solutionrelative:gym_application\\newmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|C:\\Users\\DELL\\Desktop\\GYM_Application\\gym_application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|solutionrelative:gym_application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|C:\\Users\\DELL\\Desktop\\GYM_Application\\gym_application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|solutionrelative:gym_application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|C:\\Users\\DELL\\Desktop\\GYM_Application\\gym_application\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|solutionrelative:gym_application\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|C:\\Users\\DELL\\Desktop\\GYM_Application\\gym_application\\newmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|solutionrelative:gym_application\\newmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|C:\\Users\\DELL\\Desktop\\GYM_Application\\gym_application\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|solutionrelative:gym_application\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|C:\\Users\\DELL\\Desktop\\GYM_Application\\gym_application\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88A7DD1A-5446-4D53-A987-A398B2912F8C}|GYM_Application\\GYM_Application.csproj|solutionrelative:gym_application\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdallah\\AppData\\Local\\Temp\\Rar$DIa25304.13416\\GYM_Application.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\Form2.cs",
+              "RelativeDocumentMoniker": "GYM_Application\\Form2.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - Arab Open University - AOU\\Desktop\\GYM_Application\\GYM_Application\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive - Arab Open University - AOU\\Desktop\\GYM_Application\\GYM_Application\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-07T23:35:00.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\login.cs",
+              "RelativeDocumentMoniker": "GYM_Application\\login.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\login.cs [Design]",
+              "RelativeToolTip": "GYM_Application\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:35:00.298Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\NewMember.cs",
+              "RelativeDocumentMoniker": "GYM_Application\\NewMember.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - Arab Open University - AOU\\Desktop\\GYM_Application\\GYM_Application\\NewMember.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive - Arab Open University - AOU\\Desktop\\GYM_Application\\GYM_Application\\NewMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-07T23:35:00.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\Form3.cs",
+              "RelativeDocumentMoniker": "GYM_Application\\Form3.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - Arab Open University - AOU\\Desktop\\GYM_Application\\GYM_Application\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive - Arab Open University - AOU\\Desktop\\GYM_Application\\GYM_Application\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-07T23:35:00.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\Form2.cs",
+              "RelativeDocumentMoniker": "GYM_Application\\Form2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\Form2.cs",
+              "RelativeToolTip": "GYM_Application\\Form2.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-07T23:35:00.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\login.cs",
+              "RelativeDocumentMoniker": "GYM_Application\\login.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\login.cs",
+              "RelativeToolTip": "GYM_Application\\login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:35:00.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\Form3.cs",
+              "RelativeDocumentMoniker": "GYM_Application\\Form3.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\Form3.cs",
+              "RelativeToolTip": "GYM_Application\\Form3.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-07T23:35:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\Form1.cs",
+              "RelativeDocumentMoniker": "GYM_Application\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\Form1.cs",
+              "RelativeToolTip": "GYM_Application\\Form1.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAewEIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-07T23:35:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\Form1.cs",
+              "RelativeDocumentMoniker": "GYM_Application\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - Arab Open University - AOU\\Desktop\\GYM_Application\\GYM_Application\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive - Arab Open University - AOU\\Desktop\\GYM_Application\\GYM_Application\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-07T23:35:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewMember.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\NewMember.cs",
+              "RelativeDocumentMoniker": "GYM_Application\\NewMember.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\GYM_Application\\GYM_Application\\NewMember.cs",
+              "RelativeToolTip": "GYM_Application\\NewMember.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-07T23:35:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GYM_Application.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\abdallah\\AppData\\Local\\Temp\\Rar$DIa25304.13416\\GYM_Application.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\abdallah\\AppData\\Local\\Temp\\Rar$DIa25304.13416\\GYM_Application.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\abdallah\\AppData\\Local\\Temp\\Rar$DIa25304.13416\\GYM_Application.csproj.nuget.g.props",
+              "RelativeToolTip": "..\\..\\..\\abdallah\\AppData\\Local\\Temp\\Rar$DIa25304.13416\\GYM_Application.csproj.nuget.g.props",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2022-12-16T15:47:32.008Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1858,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
